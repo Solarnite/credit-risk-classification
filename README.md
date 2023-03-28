@@ -34,7 +34,7 @@ Total records: 77536
   - Healthy Loan: 99% 
   - High-Risk Loan: 99%
  
-  # Summary
+# Summary
  
 **Logistic Regression Model with original data**
 
